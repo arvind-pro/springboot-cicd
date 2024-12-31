@@ -1,6 +1,6 @@
 FROM openjdk
 
-EXPOSE 8080
+EXPOSE 8081
 
 COPY target/spring-boot-docker.jar spring-boot-docker.jar
 
